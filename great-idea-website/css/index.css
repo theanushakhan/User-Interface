@@ -51,7 +51,7 @@ table {
 * {
     box-sizing: border-box;
 }
-
+  
 html, body {
     height: 100%;
     font-family: 'Titillium Web', sans-serif;
@@ -60,9 +60,45 @@ html, body {
 h1, h2, h3, h4, h5 {
     font-family: 'Bangers', cursive;
     letter-spacing: 1px;
-    margin-bottom: 15px;
+	margin-bottom: 15px;
+	display: block;
+    
 }
 
+.InnoDem {
+	margin-right: 12rem;
+	margin-left: 8rem;
+	margin-top: 5rem;
+	margin-bottom: 10rem; 
+	display: block;
+	font-family: 'Bangers', cursive;
+    letter-spacing: 1px;
+	display: block;
+	width: 100px;
+	height: 2rem;
+	text-align: center;
+	font-size: 60px;
+
+}
+.circleimage{
+	margin-right:5rem;
+	margin-left: 0rem;
+	margin-top: 0rem;
+	margin-bottom: 0rem; 
+	
+}
+.getStartedbutton {
+	margin-right: 50rem;
+	margin-left: 10rem;
+	margin-top: 10rem;
+	margin-bottom: 10rem; 
+    letter-spacing: 1px;
+	margin-bottom: 10rem;
+	display: block;
+	border: 2px solid grey;
+	
+	text-align: center;
+}
 /* Your code starts here! */
 
 ul {
@@ -78,4 +114,11 @@ ul {
     height: 1rem;
 	margin-left: 1rem;
 	margin-right:1rem;
+  }
+  
+  .boxcontent{
+	margin-right:5rem;
+	margin-left: 5rem;
+	margin-top: 50rem;
+	margin-bottom: 5rem; 
   }
